@@ -1,0 +1,4 @@
+   All code in this repository is:
+   =======================================================================
+   Copyright (c) 2018 Futosys, Inc. All Rights Reserved
+.
